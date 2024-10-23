@@ -1,3 +1,3 @@
 SELECT nama_mahasiswa
 FROM dbo.mahasiswa
-WHERE jurusan 'teknik informatika' AND alamat LIKE 'sudirman%';
+WHERE jurusan 'Teknik Informatika' AND alamat LIKE 'sudirman%';
